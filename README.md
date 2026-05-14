@@ -64,7 +64,7 @@ said = {
 #### AI Cloud Rendering Platform
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Role](https://img.shields.io/badge/Co--Founder%20%26%20Lead%20Eng-Full--time-a78bfa?style=flat-square&logo=rocket&logoColor=white)
+![Role](https://img.shields.io/badge/Co--Founder%20%26%20Lead%20Eng-Part--time-a78bfa?style=flat-square&logo=rocket&logoColor=white)
 ![Remote](https://img.shields.io/badge/Remote-🌍-4B9CD3?style=flat-square)
 
 <br/>
