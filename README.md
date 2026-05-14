@@ -114,8 +114,8 @@ said = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/saed.dev9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saed.dev9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed99madi)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/saeed99madi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saedmadi/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01761b751cf50bf51d)
 
 </div>
 
