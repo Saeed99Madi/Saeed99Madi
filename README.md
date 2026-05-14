@@ -34,36 +34,50 @@ said = {
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 What I'm Shipping
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
+<br/>
 
-#### 🧠 [Metafore](https://metafore.ai) — AI-Native Enterprise
-> *Software Engineer (Full-time · Remote)*
+### 🧠 Metafore
+#### AI-Native Enterprise Platform
 
-- Full-stack Next.js + Python microservices
-- LLM multi-agent orchestration + process flow tools
-- gRPC bridges · Keycloak IAM · AWS EKS
-- Apache Camel XML DSL deployed at runtime via S3
-- Multi-tenant Kubernetes workloads (UAT + prod)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Role](https://img.shields.io/badge/Software%20Engineer-Full--time-a78bfa?style=flat-square&logo=briefcase&logoColor=white)
+![Remote](https://img.shields.io/badge/Remote-🌍-4B9CD3?style=flat-square)
 
+<br/>
+
+`Next.js` `Python` `FastAPI` `gRPC`
+`Apache Camel` `Keycloak` `AWS EKS` `Kubernetes`
+`LLM Orchestration` `Multi-tenant`
+
+<br/>
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
+<br/>
 
-#### 🎨 RenderForge — AI Cloud Rendering
-> *Co-Founder & Lead Engineer (Full-time · Remote)*
+### 🎨 RenderForge
+#### AI Cloud Rendering Platform
 
-- Multi-cloud GPU orchestration: AWS · GCP · DigitalOcean
-- Blender rendering workers on EKS, zero-downtime CI/CD
-- AI job scheduling + render cost prediction
-- S3/CloudFront pipeline for large frame sequences
-- Full-stack: Next.js · Node.js · TypeScript · PostgreSQL
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Role](https://img.shields.io/badge/Co--Founder%20%26%20Lead%20Eng-Full--time-a78bfa?style=flat-square&logo=rocket&logoColor=white)
+![Remote](https://img.shields.io/badge/Remote-🌍-4B9CD3?style=flat-square)
 
+<br/>
+
+`Next.js` `Node.js` `TypeScript` `PostgreSQL`
+`AWS` `GCP` `DigitalOcean` `Kubernetes`
+`Blender` `GPU Orchestration` `AI Scheduling`
+
+<br/>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
