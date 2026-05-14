@@ -1,156 +1,192 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Said%20Madi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI-Native%20Builder%20%7C%20Co-Founder&descAlignY=57&descColor=c4b5fd&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Said%20Madi&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Platform%20Builder%20%E2%80%A2%20Co-Founder&descAlignY=56&descColor=c4b5fd&descSize=18" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI+%2B+LLM+Platform+Builder+%F0%9F%A4%96;Cloud+Infrastructure+%7C+AWS+%2B+K8s+%E2%98%81%EF%B8%8F;Co-Founder+%40+RenderForge+%F0%9F%8E%A8;Building+from+Gaza+%F0%9F%87%B5%F0%9F%87%B8+for+the+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI+%2B+LLM+Platform+Builder+%F0%9F%A4%96;Cloud+Infra+%E2%80%A2+AWS+%2B+Kubernetes+%E2%98%81%EF%B8%8F;Co-Founder+%40+RenderForge+%F0%9F%8E%A8;Building+from+Gaza+%F0%9F%87%B5%F0%9F%87%B8+for+the+World+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/saed.dev9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saed.dev9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saedmadi/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01761b751cf50bf51d)
-[![Profile Views](https://komarev.com/ghpvc/?username=Saeed99Madi&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Saeed99Madi)
+[![Email](https://img.shields.io/badge/-saed.dev9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saed.dev9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saedmadi/)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01761b751cf50bf51d)
+[![Profile Views](https://komarev.com/ghpvc/?username=Saeed99Madi&color=a78bfa&style=for-the-badge&label=VIEWS)](https://github.com/Saeed99Madi)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
+<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### `$ whoami`
+### `whoami`
 
-```python
-said = {
-  "location"  : "Palestine 🇵🇸, Gaza",
-  "role"      : "SWE @ Metafore  ·  Co-Founder @ RenderForge",
-  "focus"     : ["AI platforms", "LLM orchestration", "Cloud infra"],
-  "stack"     : ["Python", "TypeScript", "Next.js", "K8s", "FastAPI"],
-  "passion"   : "Building things that actually ship to real people",
-  "available" : True,
-}
+```yaml
+name      : Said Madi
+location  : Gaza, Palestine 🇵🇸
+role      : Software Engineer @ Metafore
+            Co-Founder @ RenderForge
+focus     :
+  - AI-native platforms & LLM orchestration
+  - Cloud infrastructure (AWS · GCP · K8s)
+  - Full-stack product engineering
+available : true
 ```
 
 <br clear="right"/>
 
+<br/>
+
 ---
 
-### 🚀 What I'm Shipping
+## 🚀 What I'm Shipping
+
+<br/>
 
 <div align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" width="50%">
-<br/>
+<td width="50%" align="center">
 
-### 🧠 Metafore
-#### AI-Native Enterprise Platform
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=3&width=300&section=header" width="300"/>
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Role](https://img.shields.io/badge/Software%20Engineer-Full--time-a78bfa?style=flat-square&logo=briefcase&logoColor=white)
-![Remote](https://img.shields.io/badge/Remote-🌍-4B9CD3?style=flat-square)
+<br/><br/>
 
-<br/>
+**🧠 METAFORE**
 
-`Next.js` `Python` `FastAPI` `gRPC`
-`Apache Camel` `Keycloak` `AWS EKS` `Kubernetes`
-`LLM Orchestration` `Multi-tenant`
+*AI-Native Enterprise Platform*
 
 <br/>
+
+![](https://img.shields.io/badge/Software%20Engineer-%E2%97%8F%20Active-a78bfa?style=flat-square&labelColor=1a1b27)
+![](https://img.shields.io/badge/Full--Time-Remote-4B9CD3?style=flat-square&labelColor=1a1b27)
+
+<br/>
+
+[![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](.)
+[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](.)
+[![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](.)
+[![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](.)
+[![](https://img.shields.io/badge/AWS%20EKS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](.)
+[![](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)](.)
+[![](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)](.)
+[![](https://img.shields.io/badge/Apache%20Camel-E9242A?style=flat-square&logo=apache&logoColor=white)](.)
+
+<br/>
+
 </td>
-<td align="center" width="50%">
-<br/>
+<td width="50%" align="center">
 
-### 🎨 RenderForge
-#### AI Cloud Rendering Platform
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=300&section=header" width="300"/>
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Role](https://img.shields.io/badge/Co--Founder%20%26%20Lead%20Eng-Part--time-a78bfa?style=flat-square&logo=rocket&logoColor=white)
-![Remote](https://img.shields.io/badge/Remote-🌍-4B9CD3?style=flat-square)
+<br/><br/>
 
-<br/>
+**🎨 RENDERFORGE**
 
-`Next.js` `Node.js` `TypeScript` `PostgreSQL`
-`AWS` `GCP` `DigitalOcean` `Kubernetes`
-`Blender` `GPU Orchestration` `AI Scheduling`
+*AI Cloud Rendering Platform*
 
 <br/>
+
+![](https://img.shields.io/badge/Co--Founder%20%26%20Lead%20Eng-%E2%97%8F%20Active-a78bfa?style=flat-square&labelColor=1a1b27)
+![](https://img.shields.io/badge/Part--Time-Remote-4B9CD3?style=flat-square&labelColor=1a1b27)
+
+<br/>
+
+[![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](.)
+[![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](.)
+[![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](.)
+[![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](.)
+[![](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](.)
+[![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](.)
+[![](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)](.)
+[![](https://img.shields.io/badge/DigitalOcean-0052CC?style=flat-square&logo=digitalocean&logoColor=white)](.)
+
+<br/>
+
 </td>
 </tr>
 </table>
 </div>
 
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-
-**Languages & Runtimes**
-
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java,php&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark)](https://skillicons.dev)
-
-**Backend & AI**
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,nestjs,kafka&theme=dark)](https://skillicons.dev)
-
-**Cloud, Infra & DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,nginx,githubactions&theme=dark)](https://skillicons.dev)
-
-**Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark)](https://skillicons.dev)
-
-**Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,grafana,postman,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
+<br/>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠 Tech Stack
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saeed99Madi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,php&theme=dark&perline=5" />
+<br/><sub>Languages</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" />
+<br/><sub>Frontend</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,nestjs&theme=dark&perline=5" />
+<br/><sub>Backend</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,githubactions&theme=dark&perline=5" />
+<br/><sub>Cloud & DevOps</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,kafka&theme=dark&perline=5" />
+<br/><sub>Data</sub>
 
 </div>
+
+<br/>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saeed99Madi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed99Madi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saeed99Madi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Saeed99Madi&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
+<br/>
 
 ---
 
-### 📈 Contribution Activity
+## 📊 Stats
 
 <div align="center">
 
-[![Said's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saeed99Madi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saeed99Madi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed99Madi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Saeed99Madi&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
 ---
 
-### 🐍 Contribution Snake
+## 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saeed99Madi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contributions
 
 <div align="center">
 
@@ -162,6 +198,6 @@ said = {
 
 </div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=twinkling" width="100%"/>
