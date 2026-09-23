@@ -51,7 +51,7 @@ Cloud rendering for 3D work, accelerated by AI. I lead the engineering across pr
 
 ## Also
 
-I mentor developers through **Gaza Sky Geeks** and run front-end training — React, Next.js and web fundamentals, in cohorts and one to one.
+From 2019 to 2024 I mentored developers through **Gaza Sky Geeks** and ran front-end training — React, Next.js and web fundamentals, in cohorts and one to one.
 
 Building from Gaza has made me pragmatic about constraints. Unreliable power and connectivity are a good teacher for writing resilient systems.
 
